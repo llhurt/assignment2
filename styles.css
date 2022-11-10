@@ -1,0 +1,24 @@
+.logo {
+    width:auto;
+    height: 5vw;
+}
+body 
+{
+    min-height: 100vh;
+    background: linear-gradient(130deg, rgba(2,0,36,1) 0%, rgba(17,17,69,1) 0%, rgba(19,19,73,1) 0%, rgba(9,9,33,1) 0%, rgba(0,0,0,1) 0%, rgba(5,16,50,1) 50%, rgba(43,142,227,1) 100%, rgba(0,144,10,1) 100%);
+}
+nav {
+    background: transparent;
+    border-radius: 15px;
+}
+h1, h2 {
+    color:azure;
+}
+.card, .accordion-body, .accordion-button {
+    background-color: rgb(241, 241, 241);
+}
+
+#delete-btn {
+    display: inline-block;
+}
+
